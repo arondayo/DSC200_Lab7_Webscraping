@@ -1,7 +1,14 @@
+# part 2 imports
+
+# part 3 imports
 from selenium import webdriver
 from bs4 import BeautifulSoup as bSoup
 import requests as rq, time
 import pandas as pd
+
+# ===== Part 2 =====
+
+# ===== Part 3 =====
 
 # from https://catalog.data.gov/dataset?q=&sort=views_recent+desc
 # gather the first 5 pages' data and write them to a csv file
